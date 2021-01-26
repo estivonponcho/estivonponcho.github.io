@@ -31,8 +31,9 @@ github_username:  jekyll
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
-  - paginate: 5
-  paginate_path: /page:num/
+  
+paginate: 5
+paginate_path: /page:num/
 
 
 # Exclude from processing.
