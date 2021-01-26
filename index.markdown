@@ -13,5 +13,4 @@ actions:
     icon: email  # references name of svg icon, see full list below
     url: "mailto: conradfam@yahoo.com"
 
-layout: post
 ---
