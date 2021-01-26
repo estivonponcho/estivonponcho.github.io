@@ -10,6 +10,6 @@ actions:
     icon: facebook  # references name of svg icon, see full list below
     url: "https://www.facebook.com/daytonridgegolf"
   - label: "Email"
-    icon: download  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
+    icon: email  # references name of svg icon, see full list below
+    url: "conradfam@gmail.com"
 ---
