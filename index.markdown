@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+paginate: true
 
 # optional call to action links
 actions:
@@ -12,7 +13,6 @@ actions:
   - label: "Email"
     icon: email  # references name of svg icon, see full list below
     url: "mailto: conradfam@yahoo.com"
-    
- layout: home
-   paginate: true
+
+
 ---
