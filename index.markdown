@@ -8,8 +8,8 @@ layout: home
 actions:
   - label: "Learn More"
     icon: github  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
-  - label: "Download"
+    url: "https://www.facebook.com/daytonridgegolf"
+  - label: "Email"
     icon: download  # references name of svg icon, see full list below
     url: "http://url-goes-here.com"
 ---
