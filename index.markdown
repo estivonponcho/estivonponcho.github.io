@@ -7,8 +7,8 @@ layout: home
 # optional call to action links
 actions:
   - label: "Facebook"
-    icon: email  # references name of svg icon, see full list below
-    url: "href= https://www.facebook.com/daytonridgegolf"
+    icon: Facebook  # references name of svg icon, see full list below
+    url: href= "https://www.facebook.com/daytonridgegolf"
   - label: "Email"
     icon: email  # references name of svg icon, see full list below
     url: "mailto: conradfam@yahoo.com"
