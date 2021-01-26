@@ -4,7 +4,6 @@
 
 layout: home
 
-layout: post
 # optional call to action links
 actions:
   - label: "Learn More"
