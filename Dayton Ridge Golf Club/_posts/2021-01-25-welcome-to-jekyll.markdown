@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: posts
+title:  "Welcome to Dayton Ridge Golf Club Restaurant and Bar!"
 date:   2021-01-25 19:30:56 -0600
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Established in 2000, Dayton Ridge Golf Club has become a fixture in the Ottawa, IL area. We pair the spirit of good drinking with food golf and a friendly atmosphere. Which makes for one deliciously unique experience. Come visit us to golf, drink and eat!
 
 Jekyll requires blog post files to be named according to the following format:
 
