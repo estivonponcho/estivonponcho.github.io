@@ -11,5 +11,5 @@ actions:
     url: "https://www.facebook.com/daytonridgegolf"
   - label: "Email"
     icon: email  # references name of svg icon, see full list below
-    url: <a href="mailto:info@example.com">send mail</a>
+    url: "mailto: conradfam@gmail.com"
 ---
