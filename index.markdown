@@ -7,7 +7,7 @@ layout: home
 # optional call to action links
 actions:
   - label: "Facebook"
-	icon-facebook.svg  # references name of svg icon, see full list below
+    icon: github  # references name of svg icon, see full list below
     url: "https://www.facebook.com/daytonridgegolf"
   - label: "Email"
     icon: download  # references name of svg icon, see full list below
