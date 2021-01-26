@@ -32,8 +32,8 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
-   paginate: 1  # amount of posts to show per page
-   paginate_path: /page:num/
+paginate: 1  # amount of posts to show per page
+paginate_path: /page:num/
 
 search: true
 
