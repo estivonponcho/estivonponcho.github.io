@@ -10,5 +10,4 @@ Established in 2000, Dayton Ridge Golf Club has become a fixture in the Ottawa, 
 
 Check out our [Facebook Page][facebook] for more info!
 
-[facebook]: <a href="https://www.facebook.com/daytonridgegolf">Link</a>
-
+[facebook]: "https://www.facebook.com/daytonridgegolf"
