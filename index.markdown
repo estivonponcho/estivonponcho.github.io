@@ -14,5 +14,5 @@ actions:
     icon: email  # references name of svg icon, see full list below
     url: "mailto: conradfam@yahoo.com"
 
-<a href="facebook.com"> Book Golf Online</a>
+
 ---
